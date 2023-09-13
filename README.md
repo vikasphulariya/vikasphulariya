@@ -1,4 +1,4 @@
-# Hi there, I'm Vikas Phulariya! 👋
+# Hi there, I'm Vikas Phulriya! 👋
 
 I'm a passionate software engineer with a love for building mobile applications and web services using technologies like React Native, Redux, Expo, Firebase, Python, and Node.js. I enjoy crafting delightful user experiences and solving complex problems.
 
