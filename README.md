@@ -11,6 +11,19 @@ I'm a passionate software engineer with a love for building mobile applications 
 - **Python**: Creating versatile applications and scripts.
 - **Node.js**: Building scalable server-side applications.
 
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasphulariya&label=Profile%20views&color=0e75b6&style=flat" alt="vikasphulariya" /> </p>-->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasphulariya" alt="vikasphulariya" /></a> </p>
+
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasphulariya&show_icons=true&locale=en&layout=compact" alt="vikasphulariya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasphulariya&show_icons=true&locale=en" alt="vikasphulariya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikasphulariya&" alt="vikasphulariya" /></p>
+
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I use regularly in my projects:
